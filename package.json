@@ -1,0 +1,24 @@
+{
+  "name": "spriteanimations_tutorial",
+  "version": "1.0.0",
+  "description": "Following YT tutorial on how to use Sprite aniumations in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vaclavtruhlarik/SpriteAnimations_tutorial.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Sprite",
+    "Animations"
+  ],
+  "author": "Vaclav Truhlarik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaclavtruhlarik/SpriteAnimations_tutorial/issues"
+  },
+  "homepage": "https://github.com/vaclavtruhlarik/SpriteAnimations_tutorial#readme"
+}
