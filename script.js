@@ -9,7 +9,7 @@ images.player.src = "character.png";
 const character_actions = ["up", "top right", "step", "right", "down right", "blink", "down", "jump"];
 const max_frames = [15, 14, 5, 13, 15, 8, 12, 9];
 const characters = [];
-let num_characters = 10;
+let num_characters = 100;
 
 class Character {
     constructor() {
